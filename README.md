@@ -60,8 +60,8 @@ Welcome to my GitHub profile! I'm a university student passionate about Cyber Se
 
 ### 📫 Connect With Me
 
-- GitHub: [[@madarapushpika](https://github.com/madarapushpika)]
-- LinkedIn: [[Add your LinkedIn profile link here](https://www.linkedin.com/feed/)]
+- GitHub: [(https://github.com/madarapushpika)]
+- LinkedIn: [(https://www.linkedin.com/feed/)]
 
 ---
 
